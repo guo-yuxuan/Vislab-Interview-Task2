@@ -1,0 +1,14 @@
+{
+    "name": "MicAmplifierEditor.Editor",
+    "references": [
+        "PhotonVoice",
+        "PhotonRealtime",
+        "PhotonVoice.API"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
